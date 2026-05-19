@@ -54,8 +54,8 @@ public class SamuelDiaz extends Developer {
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samuelLicht&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=8b949e&ring_color=A855F7" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelLicht&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e" />
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=samuelLicht&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=8b949e&ring_color=A855F7&count_private=true" />
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=samuelLicht&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e&langs_count=6" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=samuelLicht&theme=github-dark-blue&hide_border=true&background=0d1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=8b949e&dates=8b949e" />
@@ -82,3 +82,4 @@ public class SamuelDiaz extends Developer {
     <img src="https://img.shields.io/badge/samuelLicht-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=1a0a2e" />
   </a>
 </p>
+
