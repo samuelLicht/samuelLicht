@@ -80,7 +80,8 @@ public class SamuelDiaz extends Developer {
   <a href="https://github.com/samuelLicht">
     <img src="https://img.shields.io/badge/samuelLicht-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=1a0a2e" />
   </a>
+
+</p>
   <a href="https://samuellicht.github.io/portafolio-web-samuel/">
     <img src="https://img.shields.io/badge/Portafolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=ffffff&labelColor=0d1117&color=1a0a2e" />
   </a>
-</p>
